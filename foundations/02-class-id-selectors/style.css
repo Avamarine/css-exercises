@@ -1,0 +1,25 @@
+:root {
+    --ReddishPink: #DC7B7C;
+    --Astral: #376F89;
+    --AtomicLime: #B9FF03;
+}
+
+.oddNum {
+    background-color: var(--ReddishPink);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#secondElement {
+    color: var(--Astral);
+    font-size: 36px;
+}
+
+#thirdElement {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: var(--AtomicLime);
+    font-size: 24px;
+    font-weight: bold;
+}
